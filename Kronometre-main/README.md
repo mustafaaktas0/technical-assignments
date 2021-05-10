@@ -1,1 +1,1 @@
-<img src="technical-assignments/Kronometre-main/images/once.png">
+<img src="Kronometre-main/images/once.png">
