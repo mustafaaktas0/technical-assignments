@@ -1,4 +1,7 @@
 
+## Max Triangle Path
+
+
 Write code for below problem. The input below is just an example and you should implement independent from the input. Please paste the link to the answer shared using pastebin, dotnetfiddle, jsfiddle, or any other similar web-site.
 You will have an orthogonal triangle input from a file and you need to find the maximum sum of the numbers according to given rules below;
 
