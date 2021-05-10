@@ -1,6 +1,6 @@
 ## Kronometre
 
-- Bu projede benden  30 sn geri sayan bir sayaç yapmam istenmiştir .
+- Bu isterde benden  30 sn geri sayan bir sayaç yapmam istenmiştir .
 
 
 
